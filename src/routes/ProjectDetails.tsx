@@ -1,5 +1,4 @@
 import React from "react";
-import { useParams } from "react-router-dom";
 import { Col, Container, Row } from "react-bootstrap";
 import { useDictionary } from "../context/DictionaryContext";
 import AuthorBio from "../UI/AuthorBio";
