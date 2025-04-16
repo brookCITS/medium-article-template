@@ -18,9 +18,6 @@ jobs:
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Update Browserslist
-        run: npx update-browserslist-db@latest
-
       - name: Build blog
         run: npm run build
 
