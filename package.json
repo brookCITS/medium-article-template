@@ -46,6 +46,8 @@
     "@types/react": "^19.1.0",
     "@types/react-dom": "^19.1.2",
     "@types/react-router-dom": "^5.3.3",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^5.0.0"
   }
 }

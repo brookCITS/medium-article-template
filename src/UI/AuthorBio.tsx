@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Row, Badge } from "react-bootstrap";
+import { Badge } from "react-bootstrap";
 import { useDictionary } from "../context/DictionaryContext";
 import { Author } from "../types/Content";
 
